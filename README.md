@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GayatriKarle
+- 👀 I’m interested in Statistics
+- 🌱 I’m currently learning Data Analysis, Data science
+- 📫 How to reach me gayatrikarle7@gmail.com
